@@ -7,7 +7,7 @@ Steps to Run the application:
 
 in the command terminal start executing "node index.js"
 
-http://localhost:3000/userAuthentication.html
+Type in browser: http://localhost:3000/userAuthentication.html
 
 Provide the credentials and it should show you the contacts in the terminal , also check the browser in console/debugger mode to find the JSON data.
 
