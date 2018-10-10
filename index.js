@@ -5,7 +5,7 @@ var authenticationHeader = "";
 var BaseURL = "";
 var jsoncontainer = {};
 
-app.use(express.static("./html"));
+app.use(express.static("./"));
 var bodyParser = require('body-parser');
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }));
